@@ -36,7 +36,7 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/Austin Curran'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/@codingCurran'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://curranconcepts.github.io/'> <img width = '32px' align= 'center' src="https://static.vecteezy.com/system/resources/previews/000/355/711/original/portfolio-vector-icon.jpg"/></a> 
+<a href = 'https://curranconcepts.github.io/'> <img width = '32px' align= 'center' src="https://vectorified.com/images/no-data-icon-20.jpg"/></a> 
 <a href = 'https://www.github.com/curranConcepts'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
