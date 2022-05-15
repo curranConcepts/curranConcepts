@@ -2,6 +2,7 @@
 <img width="100%" height = "100%" src="https://i.ibb.co/zx9kMFW/banner-2.png" alt="cover" />
 </div>
 
+<div align="center">
 <h1> Hello, welcome to my github! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
@@ -52,5 +53,5 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gruvbox)
 
-
+</div>
 
