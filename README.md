@@ -1,15 +1,13 @@
 <div align="center">
-<img width="100%" height = "100%" src="https://i.ibb.co/Sy1Lvgq/banner.png" alt="cover" />
+<img width="100%" height = "100%" src="https://i.ibb.co/VS7LnLf/banner-1.png" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello, welcome to my github! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=curranConcepts.curranConcepts)
 
 </p>
-<div size='20px'> Hi! My name is Austin Curran. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
 
 <h2> About Me </h2>
 
