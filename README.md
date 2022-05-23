@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "100%" src="https://ibb.co/5Rrjbyt" alt="cover" />
+<img width="100%" height = "100%" src="<a href="https://i.ibb.co/x71gx0P/Blue-Green-and-White-Modern-Tech-Web-Developer-Linked-In-Banner-1.png" alt="cover" />
 </div>
 
 <div align="center">
