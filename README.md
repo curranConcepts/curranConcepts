@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "100%" src="https://www.canva.com/design/DAFBeMjF2mM/Q0Qcfkt5vEWWH9awLk6Erg/view?utm_content=DAFBeMjF2mM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="cover" />
+<img width="100%" height = "100%" src="https://ibb.co/5Rrjbyt" alt="cover" />
 </div>
 
 <div align="center">
