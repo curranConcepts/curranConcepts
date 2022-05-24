@@ -24,13 +24,13 @@
 
 <h2> About Me </h2>
 
-- 🔭 I’m currently working on an automotive website and a time estimator/tracker tool.
+ 🔭 I’m currently working on an automotive website and a time estimator/tracker tool.
 
-- 🌱 I’m currently learning JS, React, Node, MongoDB 
+ 🌱 I’m currently learning JS, React, Node, MongoDB 
 
-- 👯 I’m looking to collaborate on Projects with other developers 
+ 👯 I’m looking to collaborate on Projects with other developers 
 
-- 💬 Talk to me about JavaScript, Freelancing Opportunites, Open Source, Linux 
+ 💬 Talk to me about JavaScript, Freelancing Opportunites, Open Source, Linux 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/curranConcepts?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
@@ -46,8 +46,8 @@
   
 <h2> Recent Projects </h2>  
 
-
-
+<a href="https://curranconcepts.github.io/tempt-salon.html"><img src="https://i.ibb.co/CJm4b14/Untitled-design.gif" alt="tempt-salon" border="0"></a>
+  
 <h2> My GitHub Stats </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
