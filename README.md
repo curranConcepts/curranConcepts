@@ -46,7 +46,7 @@
   
 <h2> Recent Projects </h2>  
 
-![tempt](https://media.giphy.com/media/1JXOih5zrzm2QQHtXj/giphy.gif)
+<img width='75%' height='75%' src='https://media.giphy.com/media/1JXOih5zrzm2QQHtXj/giphy.gif' alt='tempt-salon'>
   
 <h2> My GitHub Stats </h2>
 
