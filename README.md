@@ -46,7 +46,7 @@
   
 <h2> Recent Projects </h2>  
 
-![Tempt](https://i.ibb.co/CJm4b14/Untitled-design.gif)
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/1JXOih5zrzm2QQHtXj" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
   
 <h2> My GitHub Stats </h2>
 
