@@ -46,7 +46,7 @@
   
 <h2> Recent Projects </h2>  
 
-<a href="https://curranconcepts.github.io/tempt-salon.html"><img src="https://i.ibb.co/CJm4b14/Untitled-design.gif" alt="tempt-salon" border="0"></a>
+![Tempt](https://i.ibb.co/CJm4b14/Untitled-design.gif)
   
 <h2> My GitHub Stats </h2>
 
