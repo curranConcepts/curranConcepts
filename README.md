@@ -46,7 +46,7 @@
   
 <h2> Recent Projects </h2>  
 
-<iframe src="https://giphy.com/embed/1JXOih5zrzm2QQHtXj" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![tempt](https://media.giphy.com/media/1JXOih5zrzm2QQHtXj/giphy.gif)
   
 <h2> My GitHub Stats </h2>
 
