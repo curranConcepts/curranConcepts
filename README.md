@@ -47,12 +47,6 @@
 <h2> Recent Projects </h2>  
 
 <img width='75%' height='75%' src='https://media.giphy.com/media/1JXOih5zrzm2QQHtXj/giphy.gif' alt='tempt-salon'>
-  
-<h2> My GitHub Stats </h2>
-
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curranConcepts&theme=gruvbox" />
-</a>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
