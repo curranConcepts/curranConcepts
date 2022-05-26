@@ -30,7 +30,7 @@
 
  👯 I’m looking to collaborate on Projects with other developers 
 
- 💬 Talk to me about JavaScript, Freelancing Opportunites, Open Source, Linux 
+ 💬 Talk to me about JavaScript, Blockchains, Open Source, Linux 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/curranConcepts?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
@@ -50,10 +50,6 @@
   
 <h2> My GitHub Stats </h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=curranConcepts&count_private=true&show_icons=true&theme=gruvbox" />
-</a>
-<br>
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curranConcepts&theme=gruvbox" />
 </a>
