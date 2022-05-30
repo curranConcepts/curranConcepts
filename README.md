@@ -48,6 +48,8 @@
 
 <img width='75%' height='75%' src='https://media.giphy.com/media/1JXOih5zrzm2QQHtXj/giphy.gif' alt='tempt-salon'>
 
+<img width='75%' height='75%' src='https://media.giphy.com/media/K6b4NZnkEQiosgIe6r/giphy.gif' alt='starwars-quote-tracker'>
+
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gruvbox)
