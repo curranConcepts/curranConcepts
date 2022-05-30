@@ -44,11 +44,50 @@
 <a href= https://github.com/curranConcepts?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
 <br>  
   
-<h2> Recent Projects </h2>  
 
-<img width='75%' height='75%' src='https://media.giphy.com/media/1JXOih5zrzm2QQHtXj/giphy.gif' alt='tempt-salon'>
-
-<img width='75%' height='75%' src='https://media.giphy.com/media/K6b4NZnkEQiosgIe6r/giphy.gif' alt='starwars-quote-tracker'>
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Tempt Salon</h3>
+        <br />
+        <a target="_blank" href="#">
+            <img src="https://media.giphy.com/media/1JXOih5zrzm2QQHtXj/giphy.gif" width="100%" alt="Tempt Salon"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, CSS, & HTML</strong> - Website to help salon promote their work, and book new clients</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Starwars Quote Tracker</h3>
+        <br />
+      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+            <img src="https://media.giphy.com/media/K6b4NZnkEQiosgIe6r/giphy.gif" width="100%"  alt="starwars quote tracker"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, Node.JS, Express.JS, MongoDB, HTML, CSS</strong> - A fun CRUD app to enter and store quotes from the famous movie series
+        Starwars. Includes a button to replace Yoda's quotes and one to remove Darth Vadar's.</p>
+    </td>
+  </tr>
+</table>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
