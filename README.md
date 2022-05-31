@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p align="center"> - <strong>Javascript, Node.JS, Express.JS, MongoDB, HTML, CSS</strong> - 
+        <p align="center"> - <strong>Javascript, Node, Express, MongoDB, HTML, CSS</strong> - 
           <br>A fun CRUD app to enter and store quotes from the famous movie series
         Starwars. Includes a button to replace Yoda's quotes and one to remove Darth Vadar's.</p>
     </td>
