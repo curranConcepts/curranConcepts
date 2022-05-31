@@ -65,7 +65,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p align="center"> - <strong>Javascript, CSS, & HTML</strong> - 
+        <p align="center"> - <strong>Javascript, HTML, CSS</strong> - 
           <br>Website to help salon promote their work, and book new clients</p>
     </td>
     <td width="50%" valign="top">
