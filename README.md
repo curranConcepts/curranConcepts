@@ -65,25 +65,27 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, CSS, & HTML</strong> - Website to help salon promote their work, and book new clients</p>
+        <p> - <strong>Javascript, CSS, & HTML</strong> - 
+          <br>Website to help salon promote their work, and book new clients</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Starwars Quote Tracker</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+      <a target="_blank" href="#">
             <img src="https://media.giphy.com/media/K6b4NZnkEQiosgIe6r/giphy.gif" width="100%"  alt="starwars quote tracker"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="#" target="_blank">
+  <a href="https://github.com/curranConcepts/starwars-quote-tracker.git" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Node.JS, Express.JS, MongoDB, HTML, CSS</strong> - A fun CRUD app to enter and store quotes from the famous movie series
+        <p> - <strong>Javascript, Node.JS, Express.JS, MongoDB, HTML, CSS</strong> - 
+          <br>A fun CRUD app to enter and store quotes from the famous movie series
         Starwars. Includes a button to replace Yoda's quotes and one to remove Darth Vadar's.</p>
     </td>
   </tr>
