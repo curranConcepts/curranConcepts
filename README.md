@@ -52,7 +52,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Tempt Salon</h3>
         <br />
-        <a target="_blank" href="#">
+        <a target="_blank" href="https://curranconcepts.github.io/tempt-salon.html">
             <img src="https://media.giphy.com/media/1JXOih5zrzm2QQHtXj/giphy.gif" width="100%" alt="Tempt Salon"/>
         </a>
         <br />
@@ -61,7 +61,7 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="#" target="_blank">
+  <a href="https://curranconcepts.github.io/tempt-salon.html" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
