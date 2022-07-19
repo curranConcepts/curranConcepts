@@ -24,13 +24,13 @@
 
 <h1> About Me </h1>
 
- 🔭 I’m currently working on an automotive website and a time estimator/tracker tool.
+ 🔭 I’m currently working on a contractor time estimator/tracker tool, and a medicinal teas API
 
- 🌱 I’m currently learning JS, React, Node, MongoDB 
+ 🌱 I’m currently learning the MERN stack, and data structures 
 
- 👯 I’m looking to collaborate on Projects with other developers 
+ 🎏 I’m open to collaborate on Projects with other developers 
 
- 💬 Talk to me about JavaScript, Blockchains, Open Source, Linux 
+ 💬 Let's talk about JavaScript, Blockchain, Open Source, Linux 
 
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 8%><br> Skills </h1>
   
@@ -91,6 +91,27 @@
         <p align="center"> - <strong>Javascript, Node, Express, MongoDB, HTML, CSS</strong> - 
           <br>A fun CRUD app to enter and store quotes from the famous movie series
         Starwars. Includes a button to replace Yoda's quotes and one to remove Darth Vadar's.</p>
+    </td>
+  </tr>
+    <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Alternative Vehicle Repair</h3>
+        <br />
+        <a target="_blank" href="https://avrmissoula.netlify.app/index.html">
+            <img src="https://media.giphy.com/media/cagw52hapRatqqog0Y/giphy.gif" width="100%" alt="AVR"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/curranConcepts/alternative-vehicle-repair.git" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://avrmissoula.netlify.app/index.html" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p align="center"> - <strong>Javascript, HTML, CSS, SAAS</strong> - 
+          <br>Basic responsive website to give automotive shop an online presense</p>
     </td>
   </tr>
 </table>
