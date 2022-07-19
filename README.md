@@ -53,6 +53,25 @@
 <table bordercolor="#66b2b2">
   
   <tr>
+  <td width="50%" valign="top">
+      <h3 align="center">Alternative Vehicle Repair</h3>
+        <br />
+        <a target="_blank" href="https://avrmissoula.netlify.app/index.html">
+            <img src="https://media.giphy.com/media/cagw52hapRatqqog0Y/giphy.gif" width="100%" alt="AVR"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/curranConcepts/alternative-vehicle-repair.git" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://avrmissoula.netlify.app/index.html" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p align="center"> - <strong>Javascript, HTML, CSS, SAAS</strong> - 
+          <br>Basic responsive website to give automotive shop an online presense</p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">Tempt Salon</h3>
         <br />
@@ -72,7 +91,9 @@
         <p align="center"> - <strong>Javascript, HTML, CSS</strong> - 
           <br>Website to help salon promote their work, and book new clients</p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+    <tr>
+        <td width="50%" valign="top">
       <h3 align="center">Starwars Quote Tracker</h3>
         <br />
       <a target="_blank" href="#">
@@ -91,27 +112,6 @@
         <p align="center"> - <strong>Javascript, Node, Express, MongoDB, HTML, CSS</strong> - 
           <br>A fun CRUD app to enter and store quotes from the famous movie series
         Starwars. Includes a button to replace Yoda's quotes and one to remove Darth Vadar's.</p>
-    </td>
-  </tr>
-    <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Alternative Vehicle Repair</h3>
-        <br />
-        <a target="_blank" href="https://avrmissoula.netlify.app/index.html">
-            <img src="https://media.giphy.com/media/cagw52hapRatqqog0Y/giphy.gif" width="100%" alt="AVR"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/curranConcepts/alternative-vehicle-repair.git" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://avrmissoula.netlify.app/index.html" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p align="center"> - <strong>Javascript, HTML, CSS, SAAS</strong> - 
-          <br>Basic responsive website to give automotive shop an online presense</p>
     </td>
   </tr>
 </table>
