@@ -102,7 +102,7 @@
         <br />
         <p align="center">
           
-  <a href="https://github.com/curranConcepts/starwars-quote-tracker.git" target="_blank">
+  <a href="https://github.com/curranConcepts/quote-tracker" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="#" target="_blank">
