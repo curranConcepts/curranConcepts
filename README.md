@@ -34,9 +34,10 @@
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 8%><br> Skills </h1>
   
  <p align="center">
+    <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=GO&color=23555f&style=plastic&logo=go"/>  
+    <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=23555f&style=plastic&logo=javascript"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5&logo-color=orange"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=CSS3&color=23555f&style=plastic&logo=css3"/>
-    <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=23555f&style=plastic&logo=javascript"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=23555f&style=plastic&logo=mongodb"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=23555f&style=plastic&logo=express"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=23555f&style=plastic&logo=react"/>
@@ -115,9 +116,9 @@
   </tr>
 </table>
 
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = 5%></h2>
+![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=curranconcepts&show_icons=true&theme=tokyonight)<br>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curranconcepts&layout=compact&&hide=CSS,SCSS&theme=tokyonight)](https://github.com/curranconcepts/github-readme-stats)
 
 </div>
 
