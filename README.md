@@ -54,23 +54,23 @@
   
   <tr>
   <td width="50%" valign="top">
-      <h3 align="center">Alternative Vehicle Repair</h3>
+      <h3 align="center">Profit-Prophet</h3>
         <br />
-        <a target="_blank" href="https://avrmissoula.netlify.app/index.html">
-            <img src="https://media.giphy.com/media/cagw52hapRatqqog0Y/giphy.gif" width="100%" alt="AVR"/>
+        <a target="_blank" href="https://profit-prophet.herokuapp.com">
+            <img src="https://media.giphy.com/media/N7hJGqFx8o1NPUE7qp/giphy.gif" width="100%" alt="Profit-Prophet"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/curranConcepts/alternative-vehicle-repair.git" target="_blank">
+  <a href="https://github.com/curranConcepts/profit-prophet.git" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://avrmissoula.netlify.app/index.html" target="_blank">
+  <a href="https://profit-prophet.herokuapp.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p align="center"> - <strong>Javascript, HTML, CSS, SAAS</strong> - 
-          <br>Basic responsive website to give automotive shop an online presense</p>
+        <p align="center"> - <strong>JavaScript, NodeJS, EJS, TailwindCSS, MongoDB </strong> - 
+          <br>Full stack JavaScript application to help general contractors keep track of tasks, and how much they are making while performing them.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Tempt Salon</h3>
@@ -94,10 +94,29 @@
   </tr>
     <tr>
         <td width="50%" valign="top">
+      <h3 align="center">Alternative Vehicle Repair</h3>
+        <br />
+        <a target="_blank" href="https://avrmissoula.netlify.app/index.html">
+            <img src="https://media.giphy.com/media/cagw52hapRatqqog0Y/giphy.gif" width="100%" alt="AVR"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/curranConcepts/alternative-vehicle-repair.git" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://avrmissoula.netlify.app/index.html" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p align="center"> - <strong>Javascript, HTML, CSS, SAAS</strong> - 
+          <br>Basic responsive website to give automotive shop an online presense</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">Starwars Quote Tracker</h3>
         <br />
       <a target="_blank" href="#">
-            <img src="https://media.giphy.com/media/K6b4NZnkEQiosgIe6r/giphy.gif" width="100%"  alt="starwars quote tracker"/>
+            <img src="https://media.giphy.com/media/mx7LBkzJWfWXACpTOn/giphy.gif" width="100%"  alt="starwars quote tracker"/>
         </a>
         <br />
         <p align="center">
