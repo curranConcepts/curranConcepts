@@ -135,8 +135,6 @@
   </tr>
 </table>
 
-![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=curranconcepts&show_icons=true&theme=tokyonight)<br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curranconcepts&layout=compact&&hide=CSS,SCSS&theme=tokyonight)](https://github.com/curranconcepts/github-readme-stats)
 
 </div>
