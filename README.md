@@ -73,46 +73,6 @@
           <br>Full stack JavaScript application to help general contractors keep track of tasks, and how much they are making while performing them.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Tempt Salon</h3>
-        <br />
-        <a target="_blank" href="https://curranconcepts.github.io/tempt-salon.html">
-            <img src="https://media.giphy.com/media/1JXOih5zrzm2QQHtXj/giphy.gif" width="100%" alt="Tempt Salon"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/curranConcepts/tempt-salon-website" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://tempt-salon.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p align="center"> - <strong>Javascript, HTML, CSS</strong> - 
-          <br>Website to help salon promote their work, and book new clients</p>
-    </td>
-  </tr>
-    <tr>
-        <td width="50%" valign="top">
-      <h3 align="center">Alternative Vehicle Repair</h3>
-        <br />
-        <a target="_blank" href="https://avrmissoula.netlify.app/index.html">
-            <img src="https://media.giphy.com/media/cagw52hapRatqqog0Y/giphy.gif" width="100%" alt="AVR"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/curranConcepts/alternative-vehicle-repair.git" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://avrmissoula.netlify.app/index.html" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p align="center"> - <strong>Javascript, HTML, CSS, SAAS</strong> - 
-          <br>Basic responsive website to give automotive shop an online presense</p>
-    </td>
-    <td width="50%" valign="top">
       <h3 align="center">Starwars Quote Tracker</h3>
         <br />
       <a target="_blank" href="#">
@@ -132,6 +92,47 @@
           <br>A fun CRUD app to enter and store quotes from the famous movie series
         Starwars. Includes a button to replace Yoda's quotes and one to remove Darth Vadar's.</p>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Alternative Vehicle Repair</h3>
+        <br />
+        <a target="_blank" href="https://avrmissoula.netlify.app/index.html">
+            <img src="https://media.giphy.com/media/cagw52hapRatqqog0Y/giphy.gif" width="100%" alt="AVR"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/curranConcepts/alternative-vehicle-repair.git" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://avrmissoula.netlify.app/index.html" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p align="center"> - <strong>Javascript, HTML, CSS, SAAS</strong> - 
+          <br>Basic responsive website to give automotive shop an online presense</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Tempt Salon</h3>
+        <br />
+        <a target="_blank" href="http://harry-potter-character-api.herokuapp.com">
+            <img src="https://media.giphy.com/media/WdVrwIdtTIYN9KEScL/giphy.gif" width="100%" alt="Harry Potter API"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/curranConcepts/harry-potter-api" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="http://harry-potter-character-api.herokuapp.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p align="center"> - <strong>Javascript, NodeJS, Express</strong> - 
+          <br>An API that provides information about the characters from the Harry Potter novels.</p>
+    </td>
+    
   </tr>
 </table>
 
