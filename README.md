@@ -114,7 +114,7 @@
           <br>Basic responsive website to give automotive shop an online presense</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Tempt Salon</h3>
+      <h3 align="center">Harry Potter API</h3>
         <br />
         <a target="_blank" href="http://harry-potter-character-api.herokuapp.com">
             <img src="https://media.giphy.com/media/WdVrwIdtTIYN9KEScL/giphy.gif" width="100%" alt="Harry Potter API"/>
