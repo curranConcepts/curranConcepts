@@ -136,7 +136,7 @@
   </tr>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curranconcepts&layout=compact&&hide=CSS,SCSS&theme=tokyonight)](https://github.com/curranconcepts/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curranconcepts&layout=compact&&hide=HTML,Procfile,CSS,SCSS&theme=tokyonight)](https://github.com/curranconcepts/github-readme-stats)
 
 </div>
 
