@@ -48,6 +48,8 @@
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=POSTMAN&color=23555f&style=plastic&logo=postman"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=HEROKU&color=23555f&style=plastic&logo=heroku"/>
 </p> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curranconcepts&layout=compact&&hide=HTML,Procfile,CSS,SCSS&theme=tokyonight)](https://github.com/curranconcepts/github-readme-stats)
   
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
@@ -136,7 +138,6 @@
   </tr>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curranconcepts&layout=compact&&hide=HTML,Procfile,CSS,SCSS&theme=tokyonight)](https://github.com/curranconcepts/github-readme-stats)
 
 </div>
 
