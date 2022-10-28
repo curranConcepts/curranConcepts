@@ -58,7 +58,7 @@
   <td width="50%" valign="top">
       <h3 align="center">Profit-Prophet</h3>
         <br />
-        <a target="_blank" href="https://profit-prophet.herokuapp.com">
+        <a target="_blank" href="https://profit-prophet.fly.dev">
             <img src="https://media.giphy.com/media/N7hJGqFx8o1NPUE7qp/giphy.gif" width="100%" alt="Profit-Prophet"/>
         </a>
         <br />
@@ -67,7 +67,7 @@
   <a href="https://github.com/curranConcepts/profit-prophet.git" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://profit-prophet.herokuapp.com" target="_blank">
+  <a href="https://profit-prophet.fly.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
