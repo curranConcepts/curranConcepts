@@ -45,6 +45,7 @@
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=LINUX&color=23555f&style=plastic&logo=linux"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=BASH&color=23555f&style=plastic&logo=gnubash"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=GIT&color=23555f&style=plastic&logo=git"/>
+    <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=DOCKER&color=23555f&style=plastic&logo=docker"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=POSTMAN&color=23555f&style=plastic&logo=postman"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=HEROKU&color=23555f&style=plastic&logo=heroku"/>
 </p> 
