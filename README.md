@@ -24,7 +24,7 @@
 
 <h1> About Me </h1>
 
- 🔭 I’m currently working on a contractor estimator/bidding tool, and a medicinal teas API
+ 🔭 I’m currently working on a React contractor tool, and a medicinal teas API
 
  🌱 I’m currently learning algorithims and data structures 
 
