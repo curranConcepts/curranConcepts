@@ -39,6 +39,7 @@
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5&logo-color=orange"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=CSS3&color=23555f&style=plastic&logo=css3"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=23555f&style=plastic&logo=mongodb"/>
+    <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=SQL&color=23555f&style=plastic&logo=postgresql"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=23555f&style=plastic&logo=express"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=23555f&style=plastic&logo=react"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=23555f&style=plastic&logo=node.js"/>
