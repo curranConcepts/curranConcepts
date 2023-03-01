@@ -26,7 +26,7 @@
 
  🔭 I’m currently working on a React contractor tool, and a medicinal teas API
 
- 🌱 I’m currently learning algorithims and data structures 
+ 📖 I'm currently reading "Clean code" by Robbert C. Martin and "A Scanner Darkly" by Philip K. Dick
 
  🎏 I’m open to collaborate on Projects with other developers 
 
