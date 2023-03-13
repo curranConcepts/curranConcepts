@@ -26,7 +26,7 @@
   
  🌎 I'm always exploring new skills and love taking on new and exciting challenges.
 
- 🔭 I’m currently working on a contractor log app to help independent contractors estimate and bid their services.
+ 🚧 I’m currently working on a contractor log app to help independent contractors estimate and bid their services.
 
  📖 I'm currently reading "Clean code" by Robbert C. Martin and "A Scanner Darkly" by Philip K. Dick.
 
