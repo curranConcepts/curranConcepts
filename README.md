@@ -32,7 +32,7 @@
 
  🎏 I love working on FOSS and I’m open to collaborate on Projects with other developers!
   
- 📫 Let's chat! austincurran@proton.me
+ 📫 Let's chat! a.curran1192@gmail.com
 
 
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 8%><br> Skills </h1>
