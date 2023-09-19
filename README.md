@@ -121,7 +121,6 @@
           <br>A fun CRUD app to enter and store quotes from the famous movie series
         Starwars. Includes a button to replace Yoda's quotes and one to remove Darth Vadar's.</p>
     </td>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Alternative Vehicle Repair</h3>
         <br />
