@@ -26,9 +26,9 @@
   
  🌎 I'm always exploring new skills and love taking on new and exciting challenges.
 
- 🚧 I’m currently working on a contractor log app to help independent contractors estimate and bid their services.
+ 🚧 I’m currently working on a social media application for sharing AI generated artwork.
 
- 📖 I'm currently reading "Clean code" by Robbert C. Martin and "A Scanner Darkly" by Philip K. Dick.
+ 📖 I'm currently reading "Clean code" by Robbert C. Martin and "Choke" by Chuck Palahnuik.
 
  🎏 I love working on FOSS and I’m open to collaborate on Projects with other developers!
   
@@ -63,6 +63,25 @@
   
   <tr>
   <td width="50%" valign="top">
+      <h3 align="center">Imitari</h3>
+        <br />
+        <a target="_blank" href="#">
+            <img src="https://camo.githubusercontent.com/d80b08ab12678e2f800af28b91536a30b984c8870a5fcd99bb3bdbd5f5601d50/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a573935656e64764f574e6a61326c3062445633625851784d576c6d4e323933636e4e716554557863444632596e68336548523559795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f38513345486b4b42735058644e47507962622f67697068792e676966" width="100%" alt="Harry Potter API"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/curranConcepts/imitari" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p align="center"> - <strong>Javascript, Node.js, Express.js, EJS, Bootstrap, MongoDB </strong> - 
+          <br>A social media app for users to share AI generated images. Users can also like and comment on posts.</p>
+    </td>
+  <td width="50%" valign="top">
       <h3 align="center">Profit-Prophet</h3>
         <br />
         <a target="_blank" href="https://profit-prophet.fly.dev">
@@ -81,7 +100,8 @@
         <p align="center"> - <strong>JavaScript, NodeJS, EJS, TailwindCSS, MongoDB </strong> - 
           <br>Full stack JavaScript application to help general contractors keep track of tasks, and how much they are making while performing them.</p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <td width="50%" valign="top">
       <h3 align="center">Starwars Quote Tracker</h3>
         <br />
       <a target="_blank" href="#">
@@ -101,7 +121,6 @@
           <br>A fun CRUD app to enter and store quotes from the famous movie series
         Starwars. Includes a button to replace Yoda's quotes and one to remove Darth Vadar's.</p>
     </td>
-  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Alternative Vehicle Repair</h3>
@@ -122,26 +141,6 @@
         <p align="center"> - <strong>Javascript, HTML, CSS, SAAS</strong> - 
           <br>Basic responsive website to give automotive shop an online presense</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Harry Potter API</h3>
-        <br />
-        <a target="_blank" href="http://harry-potter-character-api.herokuapp.com">
-            <img src="https://media.giphy.com/media/WdVrwIdtTIYN9KEScL/giphy.gif" width="100%" alt="Harry Potter API"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/curranConcepts/harry-potter-api" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="http://harry-potter-character-api.herokuapp.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p align="center"> - <strong>Javascript, NodeJS, Express</strong> - 
-          <br>An API that provides information about the characters from the Harry Potter novels.</p>
-    </td>
-    
   </tr>
 </table>
 
