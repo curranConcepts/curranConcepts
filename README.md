@@ -79,7 +79,7 @@
   </a>
       </p>
         <p align="center"> - <strong>Javascript, Node.js, Express.js, EJS, Bootstrap, MongoDB </strong> - 
-          <br>A social media app for users to share AI generated images. Users can also like and comment on posts.</p>
+          <br>An Image based social media app for users to share photos. Users can also like and comment on posts.</p>
     </td>
   <td width="50%" valign="top">
       <h3 align="center">Profit-Prophet</h3>
