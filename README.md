@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h1> Hello, welcome to my github! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 5%> </h1>
+<h1>Welcome to my github! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 5%> </h1>
 <p align="center">
   <a href="https://curranconcepts.github.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
