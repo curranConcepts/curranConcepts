@@ -26,7 +26,7 @@
   
  🌎 I'm always exploring new skills and love taking on new and exciting challenges.
 
- 🚧 I’m currently working on a social media application for sharing AI generated artwork.
+ 🚧 I’m currently working on a social media application for sharing Images.
 
  📖 I'm currently reading "Clean code" by Robbert C. Martin and "Choke" by Chuck Palahnuik.
 
