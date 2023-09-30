@@ -17,7 +17,7 @@
   <a href="https://angel.co/u/austin-curran" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://docs.google.com/document/d/1I4I2UArzZnTT5l92eh_9H6tpKFF36SXhRg_9QFuh-n0/edit?usp=sharing" target="_blank">
+  <a href="https://docs.google.com/document/d/1CcYuta49SmPXKRhHb7a7y5pwu54zVRMlWb_t9g3P13c/edit?usp=sharing" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
