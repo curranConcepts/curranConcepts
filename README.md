@@ -38,23 +38,20 @@
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 8%><br> Skills </h1>
   
  <p align="center">
-    <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=23555f&style=plastic&logo=javascript"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5&logo-color=orange"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=CSS3&color=23555f&style=plastic&logo=css3"/>
+    <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=23555f&style=plastic&logo=javascript"/>
+    <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=PHP&color=23555f&style=plastic&logo=php"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=23555f&style=plastic&logo=mongodb"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=SQL&color=23555f&style=plastic&logo=postgresql"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=23555f&style=plastic&logo=express"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=23555f&style=plastic&logo=react"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=23555f&style=plastic&logo=node.js"/>
-    <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=LINUX&color=23555f&style=plastic&logo=linux"/>
-    <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=BASH&color=23555f&style=plastic&logo=gnubash"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=GIT&color=23555f&style=plastic&logo=git"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=DOCKER&color=23555f&style=plastic&logo=docker"/>
-    <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=POSTMAN&color=23555f&style=plastic&logo=postman"/>
-    <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=HEROKU&color=23555f&style=plastic&logo=heroku"/>
-    <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=FLY.IO&color=23555f&style=plastic&logo=salesforce"/>
-
 </p> 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curranConcepts&layout=compact&theme=vue-dark&hide=scss,ejs)
   
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
