@@ -1,5 +1,5 @@
 <div align="center">
-<img width="75%" height = "50%" src="https://i.postimg.cc/BnsdF6Xy/Austin-Curran.png" alt="cover" />
+<img width="100%" height = "50%" src="https://i.postimg.cc/BnsdF6Xy/Austin-Curran.png" alt="cover" />
 </div>
 
 <div align="center">
