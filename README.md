@@ -43,6 +43,7 @@
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=23555f&style=plastic&logo=javascript"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=23555f&style=plastic&logo=node.js"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=PHP&color=23555f&style=plastic&logo=php"/>
+  <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=LARAVEL&color=23555f&style=plastic&logo=laravel"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=GO&color=23555f&style=plastic&logo=go"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=C SHARP&color=23555f&style=plastic&logo=CSharp"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=23555f&style=plastic&logo=mongodb"/>
