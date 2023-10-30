@@ -34,6 +34,89 @@
   
  📫 Let's chat! austin.curran@proton.me
 
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+  <td width="50%" valign="top">
+      <h3 align="center">Imitari</h3>
+        <br />
+        <a target="_blank" href="https://imitari.fly.dev/">
+            <img src="https://i.ibb.co/JQ2MybK/imitari-Mock.jpg" width="100%" alt="Imitari"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/curranConcepts/imitari" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://imitari.fly.dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p align="center"> - <strong>HTML5, CSS3, Javascript, NodeJS, ExpressJS, EJS, Bootstrap, MongoDB </strong> - 
+          <br>An Image based social media app for users to share photos. Users can also like and comment on posts.</p>
+    </td>
+  <td width="50%" valign="top">
+      <h3 align="center">Profit-Prophet</h3>
+        <br />
+        <a target="_blank" href="https://profit-prophet.fly.dev">
+            <img src="https://i.ibb.co/r0B8TW5/profit-Mock.jpg" width="100%" alt="Profit-Prophet"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/curranConcepts/profit-prophet.git" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://profit-prophet.fly.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p align="center"> - <strong>HTML5, CSS3, JavaScript, NodeJS, ExpressJS, EJS, MongoDB </strong> - 
+          <br>Full stack JavaScript application to help general contractors keep track of tasks, and how much they are making while performing them.</p>
+    </td>
+  </tr>
+  <td width="50%" valign="top">
+      <h3 align="center">Joints & Jams</h3>
+        <br />
+      <a target="_blank" href="https://jointsnjamsmt.netlify.app/">
+            <img src="https://i.ibb.co/19409Yv/jonts-Mock.jpg" width="100%"  alt="joints and jams"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/curranConcepts/joints-and-jams" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://jointsnjamsmt.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p align="center"> - <strong>Javascript, HTML, CSS</strong> - 
+          <br>Fully responsive website for a music festival.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Alternative Vehicle Repair</h3>
+        <br />
+        <a target="_blank" href="https://avrmissoula.netlify.app/index.html">
+            <img src="https://i.ibb.co/dgzRXDj/avrMock.jpg" width="100%" alt="AVR"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/curranConcepts/alternative-vehicle-repair.git" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://avrmissoula.netlify.app/index.html" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p align="center"> - <strong>Javascript, HTML, CSS</strong> - 
+          <br>Fully responsive website to give automotive shop an online presence.</p>
+    </td>
+  </tr>
+</table>
 
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 8%><br> Skills </h1>
   
