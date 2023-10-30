@@ -58,7 +58,9 @@
 </p> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curranConcepts&layout=compact&theme=vue-dark&hide=scss,ejs)
-  
+<br />
+![Visitor Count](https://profile-counter.glitch.me/curranConcepts/count.svg)
+
 
 
 
