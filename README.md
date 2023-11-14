@@ -28,7 +28,7 @@
 
  🚧 I’m currently working on a social media application for sharing Images.
 
- 📖 I'm currently reading "Clean code" by Robbert C. Martin and "Choke" by Chuck Palahnuik.
+ 📖 I'm currently reading "Clean code" by Robbert C. Martin and "The Joke's Over" by Ralph Steadman.
 
  🎏 I love working on FOSS and I’m open to collaborate on Projects with other developers!
   
