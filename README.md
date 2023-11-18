@@ -129,6 +129,7 @@
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=9f9f9f&style=plastic&logo=express"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=909090&style=plastic&logo=react"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=PHP&color=808080&style=plastic&logo=php"/>
+    <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=LARAVEL&color=808080&style=plastic&logo=laravel"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=GO&color=727272&style=plastic&logo=go"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=C SHARP&color=636363&style=plastic&logo=CSharp"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=LUA&color=555555&style=plastic&logo=lua"/>
