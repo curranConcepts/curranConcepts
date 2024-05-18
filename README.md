@@ -1,6 +1,4 @@
-<div align="center">
-<img width="100%" height = "50%" src="https://i.postimg.cc/5N5H0T5y/Beige-Black-Geometric-Technology-Linked-In-Banner.png" alt="cover" />
-</div>
+
 
 <div align="center">
 <h1>Welcome to my github! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 5%> </h1>
