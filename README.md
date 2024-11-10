@@ -75,43 +75,44 @@
           <br>Full stack JavaScript application to help general contractors keep track of tasks, and how much they are making while performing them.</p>
     </td>
   </tr>
-  <td width="50%" valign="top">
-      <h3 align="center">Joints & Jams</h3>
+  <tr>
+    <td>
+       <h3 align="center">Western Montana's Glacier Country</h3>
         <br />
-      <a target="_blank" href="https://jointsnjamsmt.netlify.app/">
-            <img src="https://i.ibb.co/19409Yv/jonts-Mock.jpg" width="100%"  alt="joints and jams"/>
+        <a target="_blank" href="https://glaciermt.com">
+            <img src="https://i.ibb.co/cT533yy/glaciermt.png" width="100%" alt="Western Montana's Glacier Country"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/curranConcepts/joints-and-jams" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://jointsnjamsmt.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p align="center"> - <strong>Javascript, HTML, CSS</strong> - 
-          <br>Fully responsive website for a music festival.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Alternative Vehicle Repair</h3>
-        <br />
-        <a target="_blank" href="https://avrmissoula.netlify.app/index.html">
-            <img src="https://i.ibb.co/dgzRXDj/avrMock.jpg" width="100%" alt="AVR"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/curranConcepts/alternative-vehicle-repair.git" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=PRIVATE REPO&color=23555f&style=plastic&logo=github&logo-color=grey"/>
   </a>  
-  <a href="https://avrmissoula.netlify.app/index.html" target="_blank">
+  <a href="https://glaciermt.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p align="center"> - <strong>Javascript, HTML, CSS</strong> - 
-          <br>Fully responsive website to give automotive shop an online presence.</p>
+        <p align="center"> - <strong>PHP, Laravel, Livewire, Alpine.js, HTMX, JQuery, Less, CSS</strong> - 
+          <br>A tourism marketing website for Montana's north west region.</p>
+    </td>
+    <td>
+       <h3 align="center">Visit Yellowston Country</h3>
+        <br />
+        <a target="_blank" href="https://visityellowstonecountry.com">
+            <img src="https://i.ibb.co/D9mqGBR/yellowstonecountry.png" width="100%" alt="Visit Yellowstone Country"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=PRIVATE REPO&color=23555f&style=plastic&logo=github&logo-color=grey"/>
+  </a>  
+  <a href="https://visityellowstonecountry.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p align="center"> - <strong>PHP, Laravel, Livewire, Alpine.js, JQuery, Less, CSS</strong> - 
+          <br>A tourism marketing website for Montana's south central region.</p>
     </td>
   </tr>
 </table>
