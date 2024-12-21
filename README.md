@@ -116,7 +116,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p align="center"> - <strong>PHP, Laravel, Livewire, Alpine.js, HTMX, JQuery, Less, CSS</strong> - 
+        <p align="center"> - <strong>PHP, Laravel, Livewire, Alpine.js, HTMX, JQuery, Less, CSS, Mapbox</strong> - 
           <br>A tourism marketing website for Montana's north west region.</p>
     </td>
     <td>
@@ -135,7 +135,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p align="center"> - <strong>PHP, Laravel, Livewire, Alpine.js, JQuery, Less, CSS</strong> - 
+        <p align="center"> - <strong>PHP, Laravel, Livewire, Alpine.js, JQuery, Less, CSS, Mapbox</strong> - 
           <br>A tourism marketing website for Montana's south central region.</p>
     </td>
   </tr>
