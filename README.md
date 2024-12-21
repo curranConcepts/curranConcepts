@@ -64,7 +64,7 @@
       <h3 align="center">Imitari</h3>
         <br />
         <a target="_blank" href="https://imitari.fly.dev/">
-            <img src="https://i.ibb.co/JQ2MybK/imitari-Mock.jpg" width="100%" alt="Imitari"/>
+            <img src="https://i.ibb.co/K24Zcxy/imitari.png" width="100%" alt="Imitari"/>
         </a>
         <br />
         <p align="center">
@@ -83,7 +83,7 @@
       <h3 align="center">Profit-Prophet</h3>
         <br />
         <a target="_blank" href="https://profit-prophet.fly.dev">
-            <img src="https://i.ibb.co/r0B8TW5/profit-Mock.jpg" width="100%" alt="Profit-Prophet"/>
+            <img src="https://i.ibb.co/x1PyWLw/profit.png" width="100%" alt="Profit-Prophet"/>
         </a>
         <br />
         <p align="center">
