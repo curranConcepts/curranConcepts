@@ -120,7 +120,7 @@
           <br>A tourism marketing website for Montana's north west region.</p>
     </td>
     <td>
-       <h3 align="center">Visit Yellowstone Country</h3>
+       <h3 align="center">Montana's Yellowstone Country</h3>
         <br />
         <a target="_blank" href="https://visityellowstonecountry.com">
             <img src="https://i.ibb.co/D9mqGBR/yellowstonecountry.png" width="100%" alt="Visit Yellowstone Country"/>
