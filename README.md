@@ -47,7 +47,7 @@
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=Express&color=555555&style=plastic&logo=express"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=React.JS&color=555555&style=plastic&logo=react"/>    
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=Go&color=555555&style=plastic&logo=go"/>
-    <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=C Sharp&color=555555&style=plastic&logo=Sharp"/>
+    <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=C&color=555555&style=plastic&logo=C"/>
    <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=SQL&color=555555&style=plastic&logo=postgresql"/>
    <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=MySQL&color=555555&style=plastic&logo=mysql"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=Mongo-DB&color=555555&style=plastic&logo=mongodb"/>
