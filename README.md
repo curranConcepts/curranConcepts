@@ -110,7 +110,7 @@
         <p align="center">
           
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=PRIVATE REPO&color=23555f&style=plastic&logo=github&logo-color=grey"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=PRIVATE_REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://glaciermt.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
@@ -129,7 +129,7 @@
         <p align="center">
           
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=PRIVATE REPO&color=23555f&style=plastic&logo=github&logo-color=grey"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=PRIVATE_REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://visityellowstonecountry.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
