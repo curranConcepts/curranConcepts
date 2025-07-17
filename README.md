@@ -147,7 +147,5 @@ Currently my workplace requires me to use a seperate profile for my work commits
 
 ![Austin's work github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AustinWindfall&theme=github-compact&custom_title=Austin's%20Work%20Profile%20Commits&days=60)
 
-![Visitor Count](https://profile-counter.glitch.me/curranConcepts/count.svg)
-
 </div>
 
