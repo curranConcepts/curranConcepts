@@ -64,7 +64,7 @@
       <h3 align="center">Imitari</h3>
         <br />
         <a target="_blank" href="https://imitari.fly.dev/">
-            <img src="https://i.ibb.co/K24Zcxy/imitari.png" width="100%" alt="Imitari"/>
+            <img src="https://austincurran.com/assets/imitari-acd0c4d5.png" width="100%" alt="Imitari"/>
         </a>
         <br />
         <p align="center">
@@ -104,7 +104,7 @@
        <h3 align="center">Western Montana's Glacier Country</h3>
         <br />
         <a target="_blank" href="https://glaciermt.com">
-            <img src="https://i.ibb.co/cT533yy/glaciermt.png" width="100%" alt="Western Montana's Glacier Country"/>
+            <img src="https://austincurran.com/assets/glacier-0d6ed983.png" width="100%" alt="Western Montana's Glacier Country"/>
         </a>
         <br />
         <p align="center">
@@ -123,7 +123,7 @@
        <h3 align="center">Montana's Yellowstone Country</h3>
         <br />
         <a target="_blank" href="https://visityellowstonecountry.com">
-            <img src="https://i.ibb.co/D9mqGBR/yellowstonecountry.png" width="100%" alt="Visit Yellowstone Country"/>
+            <img src="https://austincurran.com/assets/yellowstone-b8fe05c8.png" width="100%" alt="Visit Yellowstone Country"/>
         </a>
         <br />
         <p align="center">
