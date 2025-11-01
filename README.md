@@ -40,7 +40,7 @@
    <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=HTMX&color=555555&style=plastic&logo=htmx"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=HTML5&color=555555&style=plastic&logo=html5"/>
    <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=Less&color=555555&style=plastic&logo=less"/>
-    <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=CSS3&color=555555&style=plastic&logo=css3"/>
+    <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=CSS3&color=555555&style=plastic&logo=CSS"/>
    <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=Lua&color=555555&style=plastic&logo=lua"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=Bash&color=555555&style=plastic&logo=gnubash"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=Node.JS&color=555555&style=plastic&logo=node.js"/>
